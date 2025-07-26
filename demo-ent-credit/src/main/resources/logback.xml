@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  ~ /*
+  ~  *  Copyright (c) 2018-2022 the original author or authors.
+  ~  *  Author: 861828396@qq.com
+  ~  */
+  -->
+
+<configuration debug="false" scan="true" scanPeriod="30 seconds" packagingData="true">
+    <contextName>test</contextName>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml" />
+    <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+    <logger name="com.zaxxer.hikari" level="ERROR"/>
+    <logger name="org.springframework.jdbc" level="ERROR"/>
+    <logger name="org.htmlunit" level="ERROR"/>
+    <logger name="never.say.never.demo.ent_credit" level="INFO"/>
+    <root level="ERROR">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+</configuration>

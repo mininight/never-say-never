@@ -1,0 +1,284 @@
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+           xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac"
+           xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac">
+    <dimension ref="A1:F16"></dimension>
+    <sheetViews>
+        <sheetView tabSelected="1" workbookViewId="0">
+            <selection activeCell="C14" sqref="C14"></selection>
+        </sheetView>
+    </sheetViews>
+    <sheetFormatPr defaultColWidth="9" defaultRowHeight="13.5" x14ac:dyDescent="0.3"></sheetFormatPr>
+    <cols>
+        <col min="1" max="1" width="18.3984375" customWidth="1"></col>
+        <col min="2" max="2" width="29.73046875" customWidth="1"></col>
+        <col min="3" max="3" width="43" customWidth="1"></col>
+        <col min="4" max="4" width="14.3984375" customWidth="1"></col>
+        <col min="5" max="5" width="43.1328125" customWidth="1"></col>
+        <col min="6" max="6" width="37.46484375" customWidth="1"></col>
+    </cols>
+    <sheetData>
+        <row r="1" spans="1:6" ht="22.5" customHeight="1" x14ac:dyDescent="0.4">
+            <c r="A1" s="1" t="s">
+                <v>公司名称：</v>
+            </c>
+            <c r="B1" s="19" t="s">
+                <v>博林中凯（北京）科技有限公司</v>
+            </c>
+            <c r="C1" s="20"></c>
+            <c r="D1" s="20"></c>
+            <c r="E1" s="20"></c>
+            <c r="F1" s="15"></c>
+        </row>
+        <row r="2" spans="1:6" ht="20.25" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A2" s="1" t="s">
+                <v>*姓 名</v>
+            </c>
+            <c r="B2" s="5" t="s">
+                <v>徐连强</v>
+            </c>
+            <c r="C2" s="1" t="s">
+                <v>*公民身份号码</v>
+            </c>
+            <c r="D2" s="24" t="s">
+                <v>370281199002274616</v>
+            </c>
+            <c r="E2" s="24"></c>
+            <c r="F2" s="15"></c>
+        </row>
+        <row r="3" spans="1:6" ht="20.25" customHeight="1" x14ac:dyDescent="0.4">
+            <c r="A3" s="1" t="s">
+                <v>*性 别</v>
+            </c>
+            <c r="B3" s="5" t="s">
+                <v>男</v>
+            </c>
+            <c r="C3" s="1" t="s">
+                <v>*出生日期</v>
+            </c>
+            <c r="D3" s="20" t="s">
+                <v>1990.02.27</v>
+            </c>
+            <c r="E3" s="20"></c>
+            <c r="F3" s="15"></c>
+        </row>
+        <row r="4" spans="1:6" ht="19.5" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A4" s="1" t="s">
+                <v>*民 族</v>
+            </c>
+            <c r="B4" s="2" t="s">
+                <v>汉</v>
+            </c>
+            <c r="C4" s="1" t="s">
+                <v>*国家/地区</v>
+            </c>
+            <c r="D4" s="18" t="s">
+                <v>中国</v>
+            </c>
+            <c r="E4" s="18"></c>
+            <c r="F4" s="15"></c>
+        </row>
+        <row r="5" spans="1:6" ht="18" customHeight="1" x14ac:dyDescent="0.4">
+            <c r="A5" s="1" t="s">
+                <v></v>
+            </c>
+            <c r="B5" s="3"></c>
+            <c r="C5" s="1" t="s">
+                <v>*参加工作日期</v>
+            </c>
+            <c r="D5" s="20">
+                <v>2015.03</v>
+            </c>
+            <c r="E5" s="20"></c>
+            <c r="F5" s="15"></c>
+        </row>
+        <row r="6" spans="1:6" ht="18" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A6" s="1" t="s">
+                <v>*户口性质</v>
+            </c>
+            <c r="B6" s="18" t="s">
+                <v>外埠农村</v>
+            </c>
+            <c r="C6" s="18"></c>
+            <c r="D6" s="18"></c>
+            <c r="E6" s="4"></c>
+            <c r="F6" s="6"></c>
+        </row>
+        <row r="7" spans="1:6" ht="21" customHeight="1" x14ac:dyDescent="0.4">
+            <c r="A7" s="1" t="s">
+                <v>*户口所在地地址</v>
+            </c>
+            <c r="B7" s="19" t="s">
+                <v>山东省青岛胶州市胶西镇乜庄村296号</v>
+            </c>
+            <c r="C7" s="20"></c>
+            <c r="D7" s="20"></c>
+            <c r="E7" s="1" t="s">
+                <v>*户口所在地邮政编码</v>
+            </c>
+            <c r="F7" s="3">
+                <v>266300</v>
+            </c>
+        </row>
+        <row r="8" spans="1:6" ht="14.25" x14ac:dyDescent="0.4">
+            <c r="A8" s="1" t="s">
+                <v>*居住地(联系)地址</v>
+            </c>
+            <c r="B8" s="21" t="s">
+                <v>北京市西城区广安门内大街311号院9楼</v>
+            </c>
+            <c r="C8" s="20"></c>
+            <c r="D8" s="20"></c>
+            <c r="E8" s="1" t="s">
+                <v>*居住地（联系）邮政编码</v>
+            </c>
+            <c r="F8" s="3">
+                <v>100000</v>
+            </c>
+        </row>
+        <row r="9" spans="1:6" x14ac:dyDescent="0.3">
+            <c r="A9" s="1" t="s">
+                <v>*委托代发银行名称</v>
+            </c>
+            <c r="B9" s="22" t="s">
+                <v>招商银行</v>
+            </c>
+            <c r="C9" s="23"></c>
+            <c r="D9" s="23"></c>
+            <c r="E9" s="1" t="s">
+                <v>*委托代发银行账号</v>
+            </c>
+            <c r="F9" s="7">
+                <v>6214835320387860</v>
+            </c>
+        </row>
+        <row r="10" spans="1:6" ht="24.75" customHeight="1" x14ac:dyDescent="0.4">
+            <c r="A10" s="8" t="s">
+                <v>*文化程度</v>
+            </c>
+            <c r="B10" s="13" t="s">
+                <v>本科</v>
+            </c>
+            <c r="C10" s="17" t="s">
+                <v>*参保人手机: 18763902289</v>
+            </c>
+            <c r="D10" s="16"></c>
+            <c r="E10" s="1" t="s">
+                <v>*缴费基数（最低为3613）</v>
+            </c>
+            <c r="F10" s="3">
+                <v>3613</v>
+            </c>
+        </row>
+        <row r="11" spans="1:6" ht="19.5" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A11" s="1" t="s">
+                <v>*定点医疗机构1</v>
+            </c>
+            <c r="B11" s="16"></c>
+            <c r="C11" s="15"></c>
+            <c r="D11" s="1" t="s">
+                <v>定点医疗机构2</v>
+            </c>
+            <c r="E11" s="16"></c>
+            <c r="F11" s="15"></c>
+        </row>
+        <row r="12" spans="1:6" ht="20.25" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A12" s="1" t="s">
+                <v>定点医疗机构3</v>
+            </c>
+            <c r="B12" s="16"></c>
+            <c r="C12" s="16"></c>
+            <c r="D12" s="1" t="s">
+                <v>定点医疗机构4</v>
+            </c>
+            <c r="E12" s="16"></c>
+            <c r="F12" s="16"></c>
+        </row>
+        <row r="13" spans="1:6" x14ac:dyDescent="0.3">
+            <c r="A13" s="1" t="s">
+                <v>定点医疗机构5</v>
+            </c>
+            <c r="B13" s="16"></c>
+            <c r="C13" s="16"></c>
+            <c r="D13" s="1" t="s">
+                <v>*是否患有特殊病</v>
+            </c>
+            <c r="E13" s="17" t="s">
+                <v>否</v>
+            </c>
+            <c r="F13" s="16"></c>
+        </row>
+        <row r="14" spans="1:6" ht="22.5" customHeight="1" x14ac:dyDescent="0.3">
+            <c r="A14" s="9" t="s">
+                <v>*劳动合同起止日期</v>
+            </c>
+            <c r="B14" s="14" t="s">
+                <v>2023.03.13 - 2026.03.12</v>
+            </c>
+            <c r="C14" s="1" t="s">
+                <v>*劳动合同约定薪资金额</v>
+            </c>
+            <c r="D14" s="14" t="s">
+                <v>20k/月</v>
+            </c>
+            <c r="E14" s="10"></c>
+            <c r="F14" s="10"></c>
+        </row>
+        <row r="15" spans="1:6" x14ac:dyDescent="0.3">
+            <c r="A15" s="11"></c>
+            <c r="B15" s="12"></c>
+            <c r="C15" s="12"></c>
+            <c r="D15" s="11"></c>
+            <c r="E15" s="12"></c>
+            <c r="F15" s="12"></c>
+        </row>
+        <row r="16" spans="1:6" x14ac:dyDescent="0.3">
+            <c r="A16" s="11"></c>
+            <c r="B16" s="12"></c>
+            <c r="C16" s="12"></c>
+            <c r="D16" s="11"></c>
+            <c r="E16" s="12"></c>
+            <c r="F16" s="12"></c>
+        </row>
+    </sheetData>
+    <mergeCells count="17">
+        <mergeCell ref="B13:C13"></mergeCell>
+        <mergeCell ref="E13:F13"></mergeCell>
+        <mergeCell ref="B6:D6"></mergeCell>
+        <mergeCell ref="B7:D7"></mergeCell>
+        <mergeCell ref="B8:D8"></mergeCell>
+        <mergeCell ref="B9:D9"></mergeCell>
+        <mergeCell ref="C10:D10"></mergeCell>
+        <mergeCell ref="F1:F5"></mergeCell>
+        <mergeCell ref="B11:C11"></mergeCell>
+        <mergeCell ref="E11:F11"></mergeCell>
+        <mergeCell ref="B12:C12"></mergeCell>
+        <mergeCell ref="E12:F12"></mergeCell>
+        <mergeCell ref="B1:E1"></mergeCell>
+        <mergeCell ref="D2:E2"></mergeCell>
+        <mergeCell ref="D3:E3"></mergeCell>
+        <mergeCell ref="D4:E4"></mergeCell>
+        <mergeCell ref="D5:E5"></mergeCell>
+    </mergeCells>
+    <phoneticPr fontId="5" type="noConversion"></phoneticPr>
+    <dataValidations count="4">
+        <dataValidation type="list" errorStyle="information" allowBlank="1" showInputMessage="1" showErrorMessage="1"
+                        error="请在下拉菜单中选择相应选项" promptTitle="提示信息" prompt="在下拉菜单中选择" sqref="B6:D6">
+            <formula1>"外埠城镇,外埠农村,本市城镇,本市农村　"</formula1>
+        </dataValidation>
+        <dataValidation type="list" allowBlank="1" showInputMessage="1" showErrorMessage="1" sqref="E13:F13">
+            <formula1>"是,否"</formula1>
+        </dataValidation>
+        <dataValidation type="list" allowBlank="1" showInputMessage="1" showErrorMessage="1" promptTitle="提示信息"
+                        prompt="在下拉菜单中选择，仅限选项中银行" sqref="B9:D9">
+            <formula1>
+                "北京银行（仅限本市）,工商银行,建设银行,中国银行,邮储银行,农业银行,农商银行（仅限本市）,中信银行,光大银行,广发银行（仅限本市）,交通银行,民生银行,招商银行,兴业银行,华夏银行,浦发银行"
+            </formula1>
+        </dataValidation>
+        <dataValidation allowBlank="1" showInputMessage="1" showErrorMessage="1" promptTitle="提示信息"
+                        prompt="为保证选择的医院准确，需提供社保系统内医院名字，可在北京人力资源和社会保障局网站http://www.bjrbj.gov.cn/ 左下角查询模块查询"
+                        sqref="B11:C11"></dataValidation>
+    </dataValidations>
+    <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"></pageMargins>
+    <pageSetup paperSize="9" orientation="portrait" r:id="rId1"></pageSetup>
+</worksheet>

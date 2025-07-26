@@ -1,0 +1,41 @@
+server:
+  port: 8081
+management:
+  health:
+   camunda:
+     enabled: true
+spring:
+  application:
+    name: flow-center-admin
+  datasource:
+    url: jdbc:mysql://localhost:3306/flow-center?useSSL=false&useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true
+    username: root
+    password: root
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  configuration:
+    cache-enabled: true
+    local-cache-scope: statement
+    jdbc-type-for-null: null
+    call-setters-on-nulls: true
+    map-underscore-to-camel-case: true
+    auto-mapping-behavior: partial
+    auto-mapping-unknown-column-behavior: failing
+    aggressive-lazy-loading: true
+camunda:
+  bpm:
+    admin-user:
+      id: demo
+      password: demo
+      first-name: Demo
+    filter:
+      create: All tasks
+    database:
+      schema-update: true
+logging:
+  file:
+    path: ./logs/${spring.application.name}
+  level:
+    org.camunda: debug
+
+

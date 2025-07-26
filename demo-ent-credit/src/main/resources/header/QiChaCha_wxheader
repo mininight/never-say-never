@@ -1,0 +1,13 @@
+x-request-device-type: Android
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090b19)XWEB/9193
+qcc-version: 1.0.0
+xweb_xhr: 1
+xcx-version: 2024.08.10
+qcc-platform: mp-weixin
+accept: */*
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+connection:keep-alive

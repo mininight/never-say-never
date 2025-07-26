@@ -1,0 +1,19 @@
+:authority:weibo.com
+:method:GET
+:path:
+:scheme:https
+Accept:application/json, text/plain, */*
+Accept-Encoding:gzip, deflate, br, zstd
+Accept-Language:zh-CN,zh;q=0.9
+Client-Version:v2.46.7
+Referer:https://weibo.com/mygroups?gid=100097833167074
+Sec-Ch-Ua:"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-Ch-Ua-Mobile:?0
+Sec-Ch-Ua-Platform:"Windows"
+Sec-Fetch-Dest:empty
+Sec-Fetch-Mode:cors
+Sec-Fetch-Site:same-origin
+Server-Version:v2024.08.30.1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+X-Requested-With:XMLHttpRequest
+X-Xsrf-Token:bjp382rylDP1aLagnKhcCjAc

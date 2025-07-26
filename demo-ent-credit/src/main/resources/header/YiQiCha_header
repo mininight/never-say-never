@@ -1,0 +1,10 @@
+Accept: */*
+Connection: keep-alive
+X-YD-Req-Token:1724936986|Av5MXCSLQI4B|e3763524078ce393d9716837d96b722b
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090b19)XWEB/9193
+cid: yqc-mini-wechat-17228805883526674439
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9

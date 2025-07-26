@@ -1,0 +1,30 @@
+server:
+  port: 8080
+management:
+  health:
+   camunda:
+     enabled: true
+spring:
+  application:
+    name: flow-center-admin
+  datasource:
+    url: jdbc:mysql://localhost:3306/flow-center?useSSL=false&useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true
+    username: root
+    password: root
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+    firstName: Demo
+  filter:
+    create: All tasks
+camunda:
+  bpm:
+    database:
+      schema-update: true
+logging:
+  file:
+    path: ./logs/${spring.application.name}
+  level:
+    org.camunda: debug
+

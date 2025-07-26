@@ -1,0 +1,14 @@
+sid: 325c4fcd-383f-4273-b652-18581d4d391d
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090b19)XWEB/9193
+mp-version: 4.24.5
+xweb_xhr: 1
+2395f8d1fd38e316cc0b: 74a8f4041aed870c1dc76e570a5b10e40c94b9c12ddd500e724a60abf513af344add16cdd15bbd2bd93ac7c499138710bbee5259f7ef3ceec7b056f10e09f9bf
+mp-type: weixin
+system-os: android
+accept: */*
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://servicewechat.com/wxe45b0e313b2457ec/286/page-frame.html
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
