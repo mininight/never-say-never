@@ -32,4 +32,4 @@ Never Say Never
 
 #### 特技
 
-![图片描述](https://xulianqiang.oss-cn-hangzhou.aliyuncs.com/SP.png)
+![图片描述](https://gitee.com/xulianqiang/never-say-never-github/raw/main/SP.png)
